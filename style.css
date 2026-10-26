@@ -18,7 +18,7 @@ body {
 }
 
 .header {
-    background: #b43b1d;
+    background: blue;
     color: white;
     padding-bottom: 45px;
 }
@@ -62,8 +62,8 @@ body {
 
 .button {
     display: inline-block;
-    background: #f6c453;
-    color: #222;
+    background: #53f699;
+    color: #000;
     padding: 12px 20px;
     text-decoration: none;
     border-radius: 8px;
